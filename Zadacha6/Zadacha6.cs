@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите первое число:");
+﻿Console.WriteLine("Введите число:");
 string num = Console.ReadLine()!;
 double num1 = double.Parse(num);
 
